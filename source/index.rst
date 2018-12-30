@@ -11,6 +11,7 @@ Get Started with Sphinx
    part-1
    part-2
    part3
+   akbarian
 
 
 .. add new files to list above to include them in toc
